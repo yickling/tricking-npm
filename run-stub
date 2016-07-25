@@ -1,0 +1,5 @@
+./cleanup
+cd test-npm
+npm link ../knex knex
+npm install
+node .

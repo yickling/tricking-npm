@@ -1,0 +1,19 @@
+{
+  "name": "test-npm",
+  "version": "1.0.0",
+  "description": "testing devDependencies vs prod dependencies and see if we can stub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "^0.11.9",
+    "sqlite3": "^3.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yickling/test-npm.git"
+  }
+}

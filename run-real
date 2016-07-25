@@ -1,0 +1,4 @@
+./cleanup
+cd test-npm
+npm install
+node .

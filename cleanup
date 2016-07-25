@@ -1,0 +1,2 @@
+rm -f test-npm/*.db
+rm -rf test-npm/node_modules
